@@ -1,4 +1,4 @@
-package whileLoop;
+package functions;
 public class PerfectSquare {
     public static int solve(int A) {
         double num = Math.sqrt(A);System.out.println(num*num);
