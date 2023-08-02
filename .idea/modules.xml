@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Intermediate/Intermediate.iml" filepath="$PROJECT_DIR$/Intermediate/Intermediate.iml" />
       <module fileurl="file://$PROJECT_DIR$/June2023.iml" filepath="$PROJECT_DIR$/June2023.iml" />
       <module fileurl="file://$PROJECT_DIR$/Refresher/Refresher.iml" filepath="$PROJECT_DIR$/Refresher/Refresher.iml" />
     </modules>
